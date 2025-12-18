@@ -1,0 +1,32 @@
+Eternal-Redeemer/
+├── README.md                          # Manifesto + quick-start
+├── LICENSE
+├── docs/
+│   ├── manifesto.md                   # Full conceptual engineering text
+│   ├── whitepaper.pdf                 # Bio-Electric Tunneling & Butterfly Scaffold
+│   ├── patent_provisional.md          # 000/8-Axis claims draft
+│   ├── grant_applications/            # Impetus, Hevolution, AFAR LOIs
+│   └── visuals/                       # All schematics & diagrams
+├── src/
+│   ├── genesis_stitch/
+│   │   ├── protocol_lab.md            # Wet-lab guide for first hire
+│   │   ├── rna_design.py              # Bridge synthesis simulator
+│   │   └── mitosis_induction.py       # Torsional snap-back model
+│   ├── phos_eon/
+│   │   ├── sentinel_ai.py             # Entropy detection + FHSS
+│   │   ├── reservoir_model.py         # Layered polyP release
+│   │   └── adr_fhss_sim.py            # Secure sub-THz communication
+│   ├── 8axis_math/
+│   │   ├── vector_engine.py           # 8D state space + geodesic reversal
+│   │   └── simulation_timeless.py     # 10–20 year incremental lifts
+│   └── power/
+│       ├── grid_compliance.md         # IEEE 1547 integration
+│       └── hellbilly_fusion/          # Separated hyper cold fusion (private)
+├── data/
+│   ├── sample_omics/                  # Test multi-omics vectors
+│   └── polyP_kinetics.csv
+├── investor/
+│   ├── deck.slides                    # Pitch presentation
+│   ├── term_sheet.md                  # $15M Series A
+│   └── valuation_model.xlsx
+└── CONTRIBUTING.md
